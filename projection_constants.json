@@ -1,0 +1,12 @@
+{
+    "__comment1": "Ellipsoid: Bessel 1841",
+    "a":        6377397.155,
+    "f_inv":    299.1528153513275,
+    "__comment2": "MGI / Austria Lambert 48. Source: https://spatialreference.org/ref/sr-org/mgi-austria-lambert-48/html/",
+    "phi_1":    35.0,
+    "phi_2":    45.0,
+    "phi_F":    39.5,
+    "lambda_F": -98.35,
+    "E_F":      0,
+    "N_F":      0
+}
